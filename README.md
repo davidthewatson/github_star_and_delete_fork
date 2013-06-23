@@ -2,7 +2,7 @@ github_star_and_delete_fork
 ===========================
 
 I had a large number of forks in my github account that were unedited and
-should be starred, not forked. This script achieves that be looping through
+should be starred, not forked. This script achieves that by looping through
 all my repositories having parents, starring them, and deleting them, leaving
 only repositories that I have originated myself.
 
