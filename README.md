@@ -15,4 +15,4 @@ only repositories that I have originated myself.
     export GITHUB_PASSWORD=your_password
     python sdf.py
 
-<a href="http://davidwatson.org/">davidwatson.org</a>
+<a href="http://davidwatson.org/">david watson</a>
